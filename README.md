@@ -12,7 +12,7 @@ learning, and deep neural networks. The sizes of the different ovals do not
 represent the relative size of one field compared to another.
 
 
-##What is ChatGPT? | OpenAI Help Center
+## What is ChatGPT? | OpenAI Help Center
 + [What is ChatGPT?](https://help.openai.com/en/articles/6783457-what-is-chatgpt)
   + The FAQ \#14 clearly shows that user prompts and ChatGPT responses are owned by the user.
   + FAQ 14: Can I use output from ChatGPT for commercial uses?
