@@ -1,10 +1,10 @@
 # AI, ML, ANN & DL
 
 <p align="center">
-<img width="308" height="308" src="/Images/RP2040.png">  
+<img width="734" height="364" src="/Images/AI.png">  
 </p>
 
-
+Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/)
 
 
 Figure P-3 Relationship between artificial intelligence, machine learning, deep
