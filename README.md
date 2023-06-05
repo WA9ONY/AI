@@ -1,4 +1,4 @@
-# AI, ML, ANN & DL
+# AI, ML, DL & DNN
 
 <p align="center">
 <img width="734" height="364" src="/Images/AI.png">  
@@ -12,7 +12,12 @@ learning, and deep neural networks. The sizes of the different ovals do not
 represent the relative size of one field compared to another.
 
 ## "I am AI" [Video](https://www.youtube.com/watch?v=i-wpzS9ZsCs)
-  + NVIDIA Keynote at COMPUTEX 2023 starts with a excellent three minuite "I am AI" video that shows what AI is doing today, June 2023.
+
+<p align="center">
+<img width="583" height="324" src="/Images/IamAI.png">  
+</p>
+
++ NVIDIA Keynote at COMPUTEX 2023 starts with a excellent three minuite "I am AI" video that shows what AI is doing today, June 2023.
   + In releationship to programming the "In the AI" video says
       + "I harnessing the wisdom of a million programmers. . . I am AI"
   + AI can create programs for you and teach you software engineering.
