@@ -4,7 +4,7 @@
 <img width="734" height="364" src="/Images/AI.png">  
 </p>
 
-Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page xxviii
+Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii](https://ldlbook.com/downloads/)
 
 
 Figure P-3 Relationship between artificial intelligence, machine learning, deep
