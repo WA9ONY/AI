@@ -5,11 +5,7 @@
 </p>
 
 Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii](https://ldlbook.com/downloads/)
-
-
-Figure P-3 Relationship between artificial intelligence, machine learning, deep
-learning, and deep neural networks. The sizes of the different ovals do not
-represent the relative size of one field compared to another.
+  + "Figure P-3 Relationship between [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [machine learning](https://en.wikipedia.org/wiki/Machine_learning), [deep learning](https://en.wikipedia.org/wiki/Deep_learning), and [deep neural networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks)."
 
 ## "I am AI" [Video](https://www.youtube.com/watch?v=i-wpzS9ZsCs)
 
@@ -17,7 +13,7 @@ represent the relative size of one field compared to another.
 <img width="583" height="324" src="/Images/IamAI.png">  
 </p>
 
-+ NVIDIA Keynote at COMPUTEX 2023 starts with a excellent three minuite "I am AI" video that shows what AI is doing today, June 2023.
++ [NVIDIA](https://en.wikipedia.org/wiki/Nvidia) Keynote at COMPUTEX 2023 starts with a excellent three minuite "I am AI" video that shows what AI is doing today, June 2023.
   + In releationship to programming the "In the AI" video says
       + "I harnessing the wisdom of a million programmers. . . I am AI"
   + AI can create programs for you and teach you software engineering.
