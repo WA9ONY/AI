@@ -16,7 +16,7 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
     + DNN: [deep neural networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks)."
 
   + [Deep Learning Dictionary](https://www.youtube.com/playlist?list=PLZbbT5o_s2xqaYcABd4VgeXie6SNmtB_2) by [deeplizard](https://www.youtube.com/@deeplizard)
-
+  + [AI Dictionary](https://nhsx.github.io/ai-dictionary)
 
 ## "I am AI" [Video, first three minutes](https://www.youtube.com/watch?v=i-wpzS9ZsCs)
 
