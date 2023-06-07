@@ -14,17 +14,19 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
   + [Deep Learning Dictionary](https://www.youtube.com/playlist?list=PLZbbT5o_s2xqaYcABd4VgeXie6SNmtB_2) by [deeplizard](https://www.youtube.com/@deeplizard)
 
 
-## "I am AI" [Video](https://www.youtube.com/watch?v=i-wpzS9ZsCs)
+## "I am AI" [Video, first three minutes](https://www.youtube.com/watch?v=i-wpzS9ZsCs)
 
 <p align="center">
 <img width="583" height="324" src="/Images/IamAI.png">  
 </p>
 
-+ [NVIDIA](https://en.wikipedia.org/wiki/Nvidia) Keynote at COMPUTEX 2023 starts with a excellent three minuite "I am AI" video that shows what AI is doing today, June 2023.
++ [NVIDIA](https://en.wikipedia.org/wiki/Nvidia) [Keynote](https://www.youtube.com/watch?v=i-wpzS9ZsCs) at [COMPUTEX](https://en.wikipedia.org/wiki/Computex) [2023](https://www.computextaipei.com.tw/zh-tw/index.html) starts with a excellent three minuite "I am AI" video that shows what AI is doing today, June 2023.
   + In releationship to programming the "In the AI" video says
       + "I harnessing the wisdom of a million programmers. . . I am AI"
   + AI can create programs for you and teach you software engineering.
   + AI has changed the way I program.
+
+# ChatGPT
 
 ## What is ChatGPT? | OpenAI Help Center
 + [What is ChatGPT?](https://help.openai.com/en/articles/6783457-what-is-chatgpt)
