@@ -5,7 +5,7 @@
 </p>
 
 Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii](https://ldlbook.com/downloads/)
-  + "Relationship between 
+  + "Relationship not to scale between 
     + AI: [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), 
     + ML: [machine learning](https://en.wikipedia.org/wiki/Machine_learning), 
     + DL: [deep learning](https://en.wikipedia.org/wiki/Deep_learning), and 
