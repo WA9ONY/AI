@@ -5,9 +5,13 @@
 </p>
 
 Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii](https://ldlbook.com/downloads/)
-  + "Relationship between [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [machine learning](https://en.wikipedia.org/wiki/Machine_learning), [deep learning](https://en.wikipedia.org/wiki/Deep_learning), and [deep neural networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks)."
+  + "Relationship between 
+    + AI: [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), 
+    + ML: [machine learning](https://en.wikipedia.org/wiki/Machine_learning), 
+    + DL: [deep learning](https://en.wikipedia.org/wiki/Deep_learning), and 
+    + DNN: [deep neural networks](https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks)."
 
-  + [Deep Learning Dictionary](https://youtu.be/KyOoAZvtZcs) by [deeplizard](https://www.youtube.com/@deeplizard)
+  + [Deep Learning Dictionary](https://www.youtube.com/playlist?list=PLZbbT5o_s2xqaYcABd4VgeXie6SNmtB_2) by [deeplizard](https://www.youtube.com/@deeplizard)
 
 
 ## "I am AI" [Video](https://www.youtube.com/watch?v=i-wpzS9ZsCs)
