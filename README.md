@@ -40,21 +40,6 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
 
 
 # Projects  #101 to 199 Notes Index
-+ Project 1 to 100: <A HREF="README.md#HOME">Index</A>
-+ Project 101: <A HREF="README101.md#P101">YouTube Channel Gems</A>
-+ Project 102: <A HREF="README101.md#P102">List of YouTube Playlists</A>
-+ Project 103: <A HREF="README101.md#P103">2N3055 Testing with the Peak Atlas DCA75 Pro</A>
-+ Project 104: <A HREF="README101.md#P104">I-V Characteristics Curve Tester Version 2</A>
-+ Project 105: <A HREF="README101.md#P105">2N3055 Ic-Vc, Ib I-V Characteristics Curve Tester Version 2</A>
-+ Project 106: <A HREF="README101.md#P106">2N3055 Ic-Vc, Ib LED Test</A>
-+ Project 107: <A HREF="README101.md#P107">Elektor TV Webinars</A>
-+ Project 108: <A HREF="README101.md#P108">Arduino IDE MicroPython</A>
-+ Project 109: <A HREF="README101.md#P109">Embedded World Exhibition & Conference</A>
-+ Project 110: <A HREF="README101.md#P110">Elektor Digital Green Magazine</A>
-+ Project 111: <A HREF="README101.md#P111">Search PDFs for Text</A>
-+ Project 112: <A HREF="README101.md#P112">Newsletters</A>
-+ Project 113: <A HREF="README101.md#P113">Internet Archive</A>
-+ Project 114: <A HREF="README101.md#P114">Digi-Key Electronics</A>
 + Project 115: <A HREF="README101.md#P115">tinyML Foundation</A>
 + Project 116: <A HREF="README101.md#P116">AI: Artificial Intelligence</A>
 + Project 117: <A HREF="README101.md#P117">ML (Machine Learning) & tinyML</A>
@@ -68,24 +53,13 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
 + Project 125: <A HREF="README101.md#P125">Google AIY Projects</A>
 + Project 126: <A HREF="README101.md#P126">The Great Courses</A>
 + Project 127: <A HREF="README101.md#P127">Morse Code</A>
-+ Project 128: <A HREF="README101.md#P128">Arduino Day</A>
+
 + Project 129: <A HREF="README101.md#P129">PyTorch</A>
 + Project 130: <A HREF="README101.md#P130">Hackaday</A>
 + Project 131: <A HREF="README101.md#P131">Handwriting Recognition</A>
 + Project 132: <A HREF="README101.md#P132">ML (Machine Learning) KNN: K Nearest Neighbors in Python</A>
-+ Project 133: <A HREF="README101.md#P133">E-Ink Display</A>
-+ Project 134: <A HREF="README101.md#P134">SPE: Single Pair Ethernet</A>
-+ Project 135: <A HREF="README101.md#P135">Element14</A>
-+ Project 136: <A HREF="README101.md#P136">Dollar Tree</A>
-+ Project 137: <A HREF="README101.md#P137">Thonny</A>
-+ Project 138: <A HREF="README101.md#P138">CircuitPython</A>
-+ Project 139: <A HREF="README101.md#P139">Groups.IO Microcontrollers</A>
-+ Project 140: <A HREF="README101.md#P140">Discord</A>
-+ Project 141: <A HREF="README101.md#P141">RP2040 DVI</A>
-+ Project 142: <A HREF="README101.md#P142">RP2040 PIO</A>
-+ Project 143: <A HREF="README101.md#P143">Wire</A>
+
 + Project 144: <A HREF="README101.md#P144">scikit-learn</A>
-+ Project 145: <A HREF="README101.md#P145">Pico Vsys Power Test</A> 
 + Project 146: <A HREF="README101.md#P146">AI Chat Bot OpenAI ChatGPT Conversation</A>
 + Project 147: <A HREF="README101.md#P147">Researching a Project Process</A>
 + Project 148: <A HREF="README101.md#P148">ChatGPT Index Audio Files Conversation</A>
@@ -109,17 +83,16 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
 + Project 166: <A HREF="README101.md#P166">tinyML Summit</A>
 + Project 167: <A HREF="README101.md#P167">ML ANN Digit Recognition</A>
 + Project 168: <A HREF="README101.md#P168">Free Online Book: Neural Networks and Deep Learning</A>
-+ Project 169: <A HREF="README101.md#P169">MicroSD Cards for SBC</A>
 + Project 170: <A HREF="README101.md#P170">Google DeepMind</A>
 + Project 171: <A HREF="README101.md#P171">Google ML Training Resources</A>
 + Project 172: <A HREF="README101.md#P172">Kaggle ML</A>
 + Project 173: <A HREF="README101.md#P173">YouTube Channel Python Programmer</A> Data, Python & ML
-+ Project 174: <A HREF="README101.md#P174">YouTube Channel W2AEW</A>
+
 + Project 175: <A HREF="README101.md#P175">YouTube Channel 3Blue1Brown Animated Math</A>
 + Project 176: <A HREF="README101.md#P176">Keggle Free Data Science Courses</A>
 + Project 177: <A HREF="README101.md#P177">YouTube Channels Raspberry Pi ML</A>
 + Project 178: <A HREF="README101.md#P178">Google Coral TPU</A>
-+ Project 179: <A HREF="README101.md#P179">CAN Bus</A>
+
 + Project 180: <A HREF="README101.md#P180">Coursera: Introduction to Embedded Machine Learning</A>
 + Project 181: <A HREF="README101.md#P181">Hackster.io</A>
 + Project 182: <A HREF="README101.md#P182">Arduino UNO R4</A>
