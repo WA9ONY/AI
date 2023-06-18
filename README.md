@@ -38,21 +38,6 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
   + FAQ 14: Can I use output from ChatGPT for commercial uses?
     + Subject to the Content Policy and Terms, you own the output you create with ChatGPT, including the right to reprint, sell, and merchandise – regardless of whether output was generated through a free or paid plan.
 
-<A NAME="P115"></A>
-<HR>
-<P align="center"><A HREF="#P114">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P116">--&gt;</A></P>  
-    
-# Project 115: tinyML Foundation
-<p align="center">
-<img align="center" width="202" height="209" src="/Images/tinyMLicon.svg">        
-</p>
-
-tinyML Foundation
-  + [Website](https://www.tinyml.org/) 
-  + [YouTube](https://www.youtube.com/@tinyML)  
-    
-Tiny machine learning is broadly defined as a fast growing field of machine learning technologies and applications including hardware, algorithms and software capable of performing on-device sensor data analytics at extremely low power, typically in the mW range and below, and hence enabling a variety of always-on use-cases and targeting battery operated devices.
-
 
 # Projects  #101 to 199 Notes Index
 + Project 1 to 100: <A HREF="README.md#HOME">Index</A>
@@ -154,6 +139,21 @@ Tiny machine learning is broadly defined as a fast growing field of machine lear
 + Project 1 to 100: <A HREF="README.md#HOME">Index</A>
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
+
+<A NAME="P115"></A>
+<HR>
+<P align="center"><A HREF="#P114">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P116">--&gt;</A></P>  
+    
+# Project 115: tinyML Foundation
+<p align="center">
+<img align="center" width="202" height="209" src="/Images/tinyMLicon.svg">        
+</p>
+
+tinyML Foundation
+  + [Website](https://www.tinyml.org/) 
+  + [YouTube](https://www.youtube.com/@tinyML)  
+    
+Tiny machine learning is broadly defined as a fast growing field of machine learning technologies and applications including hardware, algorithms and software capable of performing on-device sensor data analytics at extremely low power, typically in the mW range and below, and hence enabling a variety of always-on use-cases and targeting battery operated devices.
      
 <A NAME="P116"></A>
 <HR>
