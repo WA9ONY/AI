@@ -109,7 +109,7 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
 + Project 193: <A HREF="README101.md#P193">Jetson Orin Nano SSD</A>
 + Project 194: <A HREF="README101.md#P194">YouTube Channel JetsonHacks</A>
 + Project 195: <A HREF="README101.md#P195">Free Book: Python Scripting for Computational Science</A>
-+ Project 1 to 100: <A HREF="README.md#HOME">Index</A>
+
 + <A HREF="README101.md#Future">Future Project Ideas</A>
 
 
