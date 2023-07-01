@@ -490,7 +490,7 @@ The Great Courses
    
 <A NAME="P127"></A>
 <HR>
-<P align="center"><A HREF="#P126">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P128">--&gt;</A></P>  
+<P align="center"><A HREF="#P126">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P129">--&gt;</A></P>  
     
 # Project 127: Morse Code
     
@@ -520,7 +520,7 @@ Raspberry Pi Pico books with Morse code examples.
      +  Morse Code exercisers Section 6.12 pages 217-231
 
     
-<A NAME="P129"></A>
+<A NAME="P127"></A>
 <HR>
 <P align="center"><A HREF="#P128">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P130">--&gt;</A></P>  
     
@@ -576,7 +576,7 @@ Google
 
 <A NAME="P132"></A>
 <HR>
-<P align="center"><A HREF="#P131">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P133">--&gt;</A></P>  
+<P align="center"><A HREF="#P131">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P144">--&gt;</A></P>  
     
 # Project 132: ML (Machine Learning) KNN: K Nearest Neighbors in Python
 
@@ -590,7 +590,7 @@ YouTube
  
 <A NAME="P144"></A>
 <HR>
-<P align="center"><A HREF="#P143">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P145">--&gt;</A></P>  
+<P align="center"><A HREF="#P132">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P146">--&gt;</A></P>  
     
 # Project 144: scikit-learn
 <p align="center">
@@ -612,7 +612,7 @@ scikit-learn is a free software machine learning library for the Python.
   
 <A NAME="P146"></A>
 <HR>
-<P align="center"><A HREF="#P145">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P147">--&gt;</A></P>  
+<P align="center"><A HREF="#P144">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P148">--&gt;</A></P>  
     
 # Project 146: AI Chat Bot OpenAI ChatGPT Conversation
 <p align="center">
@@ -731,7 +731,7 @@ Researching a project process has change with the use of ChatGPT.
  
 <A NAME="P148"></A>
 <HR>
-<P align="center"><A HREF="#P147">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P149">--&gt;</A></P>  
+<P align="center"><A HREF="#P146">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P149">--&gt;</A></P>  
     
 # Project 148: ChatGPT Index Audio Files Conversation
          
