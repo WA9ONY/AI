@@ -65,7 +65,11 @@
 + Project 196: <A HREF="README.md#P196">Facebook: ChatGT</A>
 
 
-## AI, ML, DL & DNN
+<A NAME="P1"></A>
+<HR>
+<P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P2">--&gt;</A></P>  
+    
+# Project 1: AI, ML, DL & DNN
 
 <p align="center">
 <img width="734" height="364" src="/Images/AI.png">  
@@ -81,7 +85,12 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
   + [Deep Learning Dictionary](https://www.youtube.com/playlist?list=PLZbbT5o_s2xqaYcABd4VgeXie6SNmtB_2) by [deeplizard](https://www.youtube.com/@deeplizard)
   + [AI Dictionary](https://nhsx.github.io/ai-dictionary)
 
-## "I am AI" [Video, first three minutes](https://www.youtube.com/watch?v=i-wpzS9ZsCs)
+
+<A NAME="P2"></A>
+<HR>
+<P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P3">--&gt;</A></P>  
+    
+# Project 2: "I am AI" [Video, first three minutes](https://www.youtube.com/watch?v=i-wpzS9ZsCs)
 
 <p align="center">
 <img width="583" height="324" src="/Images/IamAI.png">  
@@ -93,7 +102,12 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
   + AI can create programs for you and teach you software engineering.
   + AI has changed the way I program.
 
-# ChatGPT
+
+<A NAME="P3"></A>
+<HR>
+<P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P115">--&gt;</A></P>  
+    
+# Project 3: ChatGPT
 
 ## What is ChatGPT? | OpenAI Help Center
 + [What is ChatGPT?](https://help.openai.com/en/articles/6783457-what-is-chatgpt)
@@ -102,12 +116,9 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
     + Subject to the Content Policy and Terms, you own the output you create with ChatGPT, including the right to reprint, sell, and merchandise – regardless of whether output was generated through a free or paid plan.
 
 
-# Projects  #101 to 199 Notes Index
-
-
 <A NAME="P115"></A>
 <HR>
-<P align="center"><A HREF="#P114">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P116">--&gt;</A></P>  
+<P align="center"><A HREF="#P3">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P116">--&gt;</A></P>  
     
 # Project 115: tinyML Foundation
 <p align="center">
