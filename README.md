@@ -2745,7 +2745,7 @@ Remember that the best way to learn using Kaggle is by practicing and participat
  
 <A NAME="P173"></A>
 <HR>
-<P align="center"><A HREF="#P172">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P174">--&gt;</A></P>  
+<P align="center"><A HREF="#P172">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P175">--&gt;</A></P>  
     
 # Project 173: YouTube Channel [Python Programmer](https://www.youtube.com/@gilesmcmullen)  Data, Python & ML
     
@@ -2795,9 +2795,9 @@ Learn Python with Giles
 + 🆓 Free Python Resource https://python-programming.quantecon.... 
   + (This is a great introduction to python)
  
-<A NAME="P175"></A>
+<A NAME="P173"></A>
 <HR>
-<P align="center"><A HREF="#P174">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P174">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P176">--&gt;</A></P>  
     
 # Project 175: YouTube Channel [3Blue1Brown](https://www.youtube.com/@3blue1brown) Animated Math
     
