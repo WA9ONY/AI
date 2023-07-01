@@ -2,6 +2,9 @@
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # AI Project Notes Index
++ Project 1: <A HREF="README.md#P1">AI, ML, DL & DNN</A>
++ Project 2: <A HREF="README.md#P2">"I am AI" Video</A>
++ Project 3: <A HREF="README.md#P3">ChatGPT</A>
 + Project 115: <A HREF="README.md#P115">tinyML Foundation</A>
 + Project 116: <A HREF="README.md#P116">AI: Artificial Intelligence</A>
 + Project 117: <A HREF="README.md#P117">ML (Machine Learning) & tinyML</A>
