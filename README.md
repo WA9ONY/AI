@@ -110,6 +110,7 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
 + Project 193: <A HREF="README.md#P193">Jetson Orin Nano SSD</A>
 + Project 194: <A HREF="README.md#P194">YouTube Channel JetsonHacks</A>
 + Project 195: <A HREF="README.md#P195">Free Book: Python Scripting for Computational Science</A>
++ Project 196: <A HREF="README.md#P196">Facebook: ChatGT</A>
 
 + <A HREF="README.md#Future">Future Project Ideas</A>
 
@@ -3099,7 +3100,7 @@ The YouTube [JetsonHacks](https://www.youtube.com/@JetsonHacks) channel is focus
     
 <A NAME="P195"></A>
 <HR>
-<P align="center"><A HREF="#P194">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#FUTURE">--&gt;</A></P>  
+<P align="center"><A HREF="#P194">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P196">--&gt;</A></P>  
     
 # Project 195: Free Book: Python Scripting for Computational Science
 
@@ -3107,5 +3108,17 @@ The YouTube [JetsonHacks](https://www.youtube.com/@JetsonHacks) channel is focus
   + Free [PDF](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Python/Python%20Scripting%20for%20Computational%20Science%2C%20Third%20Edition%20%282008%29.pdf)
   + [Files](http://home.simula.no/~hpl/scripting/index.html)
   + [GitHub](https://github.com/hplgit/hplgit.github.com)  
+     
     
+<A NAME="P196"></A>
+<HR>
+<P align="center"><A HREF="#P195">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
     
+# Project 196: Facebook: ChatGT
+
+Facebook groups GPT [search](https://www.facebook.com/groups/search/groups_home/?q=GPT)    
+  + List [URL](https://ejaj-cz.translate.goog/?fbclid=IwAR2gK1bJG0oNRrg3XWUSFqQ_YIQj8maf9ur9-T7ipIBT1PBZ5CLpvir6kZ8_aem_AdUxtKg-r3eYUyjL2RGFkjkZHV4AWs0M2h5H0gfT_wfH_wYPANiXs_xOlXAeLDu72PI&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+
+    
+ 
+
