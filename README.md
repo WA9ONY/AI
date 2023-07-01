@@ -2938,7 +2938,7 @@ Coursera has become a popular platform for individuals seeking to enhance their 
     
 <A NAME="P181"></A>
 <HR>
-<P align="center"><A HREF="#P180">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P182">--&gt;</A></P>  
+<P align="center"><A HREF="#P180">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P183">--&gt;</A></P>  
     
 # Project 181: [Hackster.io](https://www.hackster.io/) 
 <p align="center">
@@ -2982,7 +2982,7 @@ Hackster.io
     
 <A NAME="P183"></A>
 <HR>
-<P align="center"><A HREF="#P182">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P184">--&gt;</A></P>  
+<P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P184">--&gt;</A></P>  
     
 # Project 183: OpenVINO™ DevCon
 
@@ -3014,7 +3014,7 @@ Overall, Google Coral offers a streamlined solution for implementing machine lea
     
 <A NAME="P185"></A>
 <HR>
-<P align="center"><A HREF="#P184">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P186">--&gt;</A></P>  
+<P align="center"><A HREF="#P184">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P190">--&gt;</A></P>  
     
 # Project 185: Free Book: Python Data Science Handbook
 <p align="center">
@@ -3028,7 +3028,7 @@ Python Data Science Handbook at [GitHub](https://github.com/jakevdp/PythonDataSc
  
 <A NAME="P190"></A>
 <HR>
-<P align="center"><A HREF="#P189">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P191">--&gt;</A></P>  
+<P align="center"><A HREF="#P185">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P191">--&gt;</A></P>  
     
 # Project 190: YouTube Channel [Gary Explains](https://www.youtube.com/@GaryExplains)
 
