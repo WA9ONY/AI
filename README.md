@@ -1044,6 +1044,7 @@ print(output_data)
 </p>
 
 ### Introduction to Neural Networks 15 Lessions
+A great introduction to NNs.
 
 Introduction
   + Neural Networks
@@ -1156,6 +1157,7 @@ Advanced Architectures
 
 
 ### Reinforcement Learning 6 Lessons
+Needs math background.
 
 Introduction
   + Introduction
@@ -1172,6 +1174,7 @@ Extensions
 Reinforcement learning has four subelements — a policy, a reward signal, a model, and a value function.
 
 ## Programming with Python 19 Lessons
+Python for biginners, lacts OOP.
 
 Introduction
   + Welcome to Python
