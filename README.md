@@ -1174,7 +1174,7 @@ Extensions
 Reinforcement learning has four subelements — a policy, a reward signal, a model, and a value function.
 
 ## Programming with Python 19 Lessons
-Python for biginners, lacts OOP.
+Python for biginners, lacks OOP.
 
 Introduction
   + Welcome to Python
