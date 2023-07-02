@@ -1036,11 +1036,11 @@ print(output_data)
 # Project 152: Brilliant Online Courses
          
 <p align="center">
-<img align="center" width="1000" height="488" src="/Images/Brilliant6c.png">        
+<img align="center" width="1009" height="493" src="/Images/Brilliant8c.png">        
 </p>
          
 <p align="center">
-<img align="center" width="329" height="300" src="/Images/Brilliant66.png">        
+<img align="center" width="417" height="265" src="/Images/Brilliant78.png">        
 </p>
 
 ### Introduction to Neural Networks 15 Lessions
