@@ -3126,8 +3126,7 @@ The YouTube [JetsonHacks](https://www.youtube.com/@JetsonHacks) channel is focus
 
 + Facebook groups GPT [search returns a very long list](https://www.facebook.com/groups/search/groups_home/?q=GPT)    
 
-+ EJ:AJ Czech database of AI List (use Google translate) [URL](https://ejaj-cz.translate.goog/?fbclid=IwAR2gK1bJG0oNRrg3XWUSFqQ_YIQj8maf9ur9-T7ipIBT1PBZ5CLpvir6kZ8_aem_AdUxtKg-r3eYUyjL2RGFkjkZHV4AWs0M2h5H0gfT_wfH_wYPANiXs_xOlXAeLDu72PI&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
-
+Facebook post
 + EJ:AJ Czech database of AI List (use Google translate) [URL](https://ejaj.cz/)
 
     
