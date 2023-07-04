@@ -138,8 +138,8 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
     
 # Project 4: Googgle Cloud Generative AI learning path
 
-Generative AI learning path
-+ [URL](https://www.cloudskillsboost.google/paths/118)
++ [Generative AI learning path](https://www.cloudskillsboost.google/paths/118)
++ Seven new no-cost generative AI training courses to advance your cloud [career](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources)
 
 
 <A NAME="P115"></A>
