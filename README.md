@@ -151,7 +151,15 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
 + [Google DeepMind](https://www.linkedin.com/company/googledeepmind/)
 + [DeepLearning.AI](https://www.linkedin.com/company/deeplearningai/)
 + [LANDING AI](https://www.linkedin.com/company/landing-ai/)
-+ [Nvidia Jetson Nano User Group (NJNUG](https://www.linkedin.com/groups/10512530/)
++ [Nvidia Jetson Nano User Group NJNUG](https://www.linkedin.com/groups/10512530/)
++ [tinyML Foundation](https://www.linkedin.com/company/tinyml//)
+
+Other groups
++ [Adafruit Industries]https://www.linkedin.com/company/adafruit/)
++ [Arduino](https://www.linkedin.com/company/arduino/)
++ [Raspberry Pi Foundation](https://www.linkedin.com/company/raspberrypifoundation/)
++ [Raspberry Pi](https://www.linkedin.com/company/raspberrypi/)
++ [SparkFun Electronics](https://www.linkedin.com/company/sparkfun-electronics/)
 
 
 <A NAME="P115"></A>
