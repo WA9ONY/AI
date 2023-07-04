@@ -6,6 +6,7 @@
 + Project 1: <A HREF="README.md#P1">AI, ML, DL & DNN</A>
 + Project 2: <A HREF="README.md#P2">"I am AI" Video</A>
 + Project 3: <A HREF="README.md#P3">ChatGPT</A>
++ Project 4: <A HREF="README.md#P4">Googgle Cloud Generative AI learning path</A>
 + Project 115: <A HREF="README.md#P115">tinyML Foundation</A>
 + Project 116: <A HREF="README.md#P116">AI: Artificial Intelligence</A>
 + Project 117: <A HREF="README.md#P117">ML (Machine Learning) & tinyML</A>
@@ -109,7 +110,7 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
 
 <A NAME="P3"></A>
 <HR>
-<P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P115">--&gt;</A></P>  
+<P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P4">--&gt;</A></P>  
     
 # Project 3: ChatGPT
 
@@ -127,6 +128,18 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
   +  Expand response.
 + To fix cut-off response problem
   + entery continue.
+
+
+
+
+<A NAME="P4"></A>
+<HR>
+<P align="center"><A HREF="#P3">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P115">--&gt;</A></P>  
+    
+# Project 4: Googgle Cloud Generative AI learning path
+
+Generative AI learning path
++ [URL](https://www.cloudskillsboost.google/paths/118)
 
 
 <A NAME="P115"></A>
