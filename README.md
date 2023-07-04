@@ -119,6 +119,15 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
   + FAQ 14: Can I use output from ChatGPT for commercial uses?
     + Subject to the Content Policy and Terms, you own the output you create with ChatGPT, including the right to reprint, sell, and merchandise – regardless of whether output was generated through a free or paid plan.
 
+## ChatGPT Prompts
++ Modify the ChatGPT response.
+  +  Check response for accracy.
+  +  Make response more compact.
+  +  Improve response,
+  +  Expand response.
++ To fix cut-off response problem
+  + entery continue.
+
 
 <A NAME="P115"></A>
 <HR>
