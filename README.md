@@ -3,78 +3,78 @@
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # AI Project Notes Index
-+ Project 1: <A HREF="README.md#P1">AI, ML, DL & DNN</A>
-+ Project 2: <A HREF="README.md#P2">"I am AI" Video</A>
-+ Project 3: <A HREF="README.md#P3">ChatGPT</A>
-+ Project 4: <A HREF="README.md#P4">Googgle Cloud Generative AI learning path</A>
-+ Project 5: <A HREF="README.md#P5">Linkedin AI Gruops</A>
-+ Project 6: <A HREF="README.md#P6">Introduction to Machine Learning</A>
-+ Project 115: <A HREF="README.md#P115">tinyML Foundation</A>
-+ Project 116: <A HREF="README.md#P116">AI: Artificial Intelligence</A>
-+ Project 117: <A HREF="README.md#P117">ML (Machine Learning) & tinyML</A>
-+ Project 118: <A HREF="README.md#P118">Khan Academy</A>
-+ Project 119: <A HREF="README.md#P119">OCW: MIT Open Course Ware</A>
-+ Project 120: <A HREF="README.md#P120">TensorFlow</A>
-+ Project 121: <A HREF="README.md#P121">Microcontrollers Machine Learning</A>
-+ Project 122: <A HREF="README.md#P122">SBC (Single Board Computer) Machine Learning</A>
-+ Project 123: <A HREF="README.md#P123">How to build an ML-powered doorbell notifier</A>
-+ Project 124: <A HREF="README.md#P124">SparkFun Machine Learning</A>
-+ Project 125: <A HREF="README.md#P125">Google AIY Projects</A>
-+ Project 126: <A HREF="README.md#P126">The Great Courses</A>
-+ Project 127: <A HREF="README.md#P127">Morse Code</A>
-+ Project 129: <A HREF="README.md#P129">PyTorch</A>
-+ Project 130: <A HREF="README.md#P130">Hackaday</A>
-+ Project 131: <A HREF="README.md#P131">Handwriting Recognition</A>
-+ Project 132: <A HREF="README.md#P132">ML (Machine Learning) KNN: K Nearest Neighbors in Python</A>
-+ Project 144: <A HREF="README.md#P144">scikit-learn</A>
-+ Project 146: <A HREF="README.md#P146">AI Chat Bot OpenAI ChatGPT Conversation</A>
-+ Project 147: <A HREF="README.md#P147">Researching a Project Process</A>
-+ Project 148: <A HREF="README.md#P148">ChatGPT Index Audio Files Conversation</A>
-+ Project 149: <A HREF="README.md#P149">ChatGPT Raspberry Pi Pico Conversation</A>
-+ Project 150: <A HREF="README.md#P150">ChatGPT ANN Conversation</A>
-+ Project 151: <A HREF="README.md#P151">Google Colab ChatGPT ANN Conversation</A>
-+ Project 152: <A HREF="README.md#P152">Brilliant Online Courses</A>
-+ Project 153: <A HREF="README.md#P153">AI Hardware</A>
-+ Project 154: <A HREF="README.md#P154">Adafruit Microsoft Machine Learning Kit for Lobe</A>
-+ Project 155: <A HREF="README.md#P155">Nvidia Jetson</A>
-+ Project 156: <A HREF="README.md#P156">ML GPUs & TPUs</A>
-+ Project 157: <A HREF="README.md#P157">ML ResNet-50 Convolutional Neural Network</A>
-+ Project 158: <A HREF="README.md#P158">ML Math</A>
-+ Project 159: <A HREF="README.md#P159">Google Colab Python IDE</A> 
-+ Project 160: <A HREF="README.md#P160">Morse Code</A>
-+ Project 161: <A HREF="README.md#P161">Python Notbooks</A>
-+ Project 162: <A HREF="README.md#P162">DS: Data Science</A>
-+ Project 163: <A HREF="README.md#P163">Anaconda</A>
-+ Project 164: <A HREF="README.md#P164">Bosch BME688 Environmental sensing with AI</A>
-+ Project 165: <A HREF="README.md#P165">Free Book: The Elements of Statistical Learning</A>
-+ Project 166: <A HREF="README.md#P166">tinyML Summit</A>
-+ Project 167: <A HREF="README.md#P167">ML ANN Digit Recognition</A>
-+ Project 168: <A HREF="README.md#P168">Free Online Book: Neural Networks and Deep Learning</A>
-+ Project 170: <A HREF="README.md#P170">Google DeepMind</A>
-+ Project 171: <A HREF="README.md#P171">Google ML Training Resources</A>
-+ Project 172: <A HREF="README.md#P172">Kaggle ML</A>
-+ Project 173: <A HREF="README.md#P173">YouTube Channel Python Programmer</A> Data, Python & ML
-+ Project 175: <A HREF="README.md#P175">YouTube Channel 3Blue1Brown Animated Math</A>
-+ Project 176: <A HREF="README.md#P176">Keggle Free Data Science Courses</A>
-+ Project 177: <A HREF="README.md#P177">YouTube Channels Raspberry Pi ML</A>
-+ Project 178: <A HREF="README.md#P178">Google Coral TPU</A>
-+ Project 180: <A HREF="README.md#P180">Coursera: Introduction to Embedded Machine Learning</A>
-+ Project 181: <A HREF="README.md#P181">Hackster.io</A>
-+ Project 183: <A HREF="README.md#P183">OpenVINO™ DevCon</A>
-+ Project 184: <A HREF="README.md#P184">Google Coral</A>
-+ Project 185: <A HREF="README.md#P185">Free Book: Python Data Science Handbook</A>
-+ Project 190: <A HREF="README.md#P190">YouTube Channel Gary Explains</A>
-+ Project 191: <A HREF="README.md#P191">Bing ChatGPT-4</A>
-+ Project 192: <A HREF="README.md#P192">Nvidia Jetson Orin Nano</A>
-+ Project 193: <A HREF="README.md#P193">Jetson Orin Nano SSD</A>
-+ Project 194: <A HREF="README.md#P194">YouTube Channel JetsonHacks</A>
-+ Project 195: <A HREF="README.md#P195">Free Book: Python Scripting for Computational Science</A>
-+ Project 196: <A HREF="README.md#P196">Facebook: ChatGT</A>
++ Project 1: <A HREF="#P1">AI, ML, DL & DNN</A>
++ Project 2: <A HREF="#P2">"I am AI" Video</A>
++ Project 3: <A HREF="#P3">ChatGPT</A>
++ Project 4: <A HREF="#P4">Googgle Cloud Generative AI learning path</A>
++ Project 5: <A HREF="#P5">Linkedin AI Gruops</A>
++ Project 6: <A HREF="#P6">Introduction to Machine Learning</A>
++ Project 115: <A HREF="#P115">tinyML Foundation</A>
++ Project 116: <A HREF="#P116">AI: Artificial Intelligence</A>
++ Project 117: <A HREF="#P117">ML (Machine Learning) & tinyML</A>
++ Project 118: <A HREF="#P118">Khan Academy</A>
++ Project 119: <A HREF="#P119">OCW: MIT Open Course Ware</A>
++ Project 120: <A HREF="#P120">TensorFlow</A>
++ Project 121: <A HREF="#P121">Microcontrollers Machine Learning</A>
++ Project 122: <A HREF="#P122">SBC (Single Board Computer) Machine Learning</A>
++ Project 123: <A HREF="#P123">How to build an ML-powered doorbell notifier</A>
++ Project 124: <A HREF="#P124">SparkFun Machine Learning</A>
++ Project 125: <A HREF="#P125">Google AIY Projects</A>
++ Project 126: <A HREF="#P126">The Great Courses</A>
++ Project 127: <A HREF="#P127">Morse Code</A>
++ Project 129: <A HREF="#P129">PyTorch</A>
++ Project 130: <A HREF="#P130">Hackaday</A>
++ Project 131: <A HREF="#P131">Handwriting Recognition</A>
++ Project 132: <A HREF="#P132">ML (Machine Learning) KNN: K Nearest Neighbors in Python</A>
++ Project 144: <A HREF="#P144">scikit-learn</A>
++ Project 146: <A HREF="#P146">AI Chat Bot OpenAI ChatGPT Conversation</A>
++ Project 147: <A HREF="#P147">Researching a Project Process</A>
++ Project 148: <A HREF="#P148">ChatGPT Index Audio Files Conversation</A>
++ Project 149: <A HREF="#P149">ChatGPT Raspberry Pi Pico Conversation</A>
++ Project 150: <A HREF="#P150">ChatGPT ANN Conversation</A>
++ Project 151: <A HREF="#P151">Google Colab ChatGPT ANN Conversation</A>
++ Project 152: <A HREF="#P152">Brilliant Online Courses</A>
++ Project 153: <A HREF="#P153">AI Hardware</A>
++ Project 154: <A HREF="#P154">Adafruit Microsoft Machine Learning Kit for Lobe</A>
++ Project 155: <A HREF="#P155">Nvidia Jetson</A>
++ Project 156: <A HREF="#P156">ML GPUs & TPUs</A>
++ Project 157: <A HREF="#P157">ML ResNet-50 Convolutional Neural Network</A>
++ Project 158: <A HREF="#P158">ML Math</A>
++ Project 159: <A HREF="#P159">Google Colab Python IDE</A> 
++ Project 160: <A HREF="#P160">Morse Code</A>
++ Project 161: <A HREF="#P161">Python Notbooks</A>
++ Project 162: <A HREF="#P162">DS: Data Science</A>
++ Project 163: <A HREF="#P163">Anaconda</A>
++ Project 164: <A HREF="#P164">Bosch BME688 Environmental sensing with AI</A>
++ Project 165: <A HREF="#P165">Free Book: The Elements of Statistical Learning</A>
++ Project 166: <A HREF="#P166">tinyML Summit</A>
++ Project 167: <A HREF="#P167">ML ANN Digit Recognition</A>
++ Project 168: <A HREF="#P168">Free Online Book: Neural Networks and Deep Learning</A>
++ Project 170: <A HREF="#P170">Google DeepMind</A>
++ Project 171: <A HREF="#P171">Google ML Training Resources</A>
++ Project 172: <A HREF="#P172">Kaggle ML</A>
++ Project 173: <A HREF="#P173">YouTube Channel Python Programmer</A> Data, Python & ML
++ Project 175: <A HREF="#P175">YouTube Channel 3Blue1Brown Animated Math</A>
++ Project 176: <A HREF="#P176">Keggle Free Data Science Courses</A>
++ Project 177: <A HREF="#P177">YouTube Channels Raspberry Pi ML</A>
++ Project 178: <A HREF="#P178">Google Coral TPU</A>
++ Project 180: <A HREF="#P180">Coursera: Introduction to Embedded Machine Learning</A>
++ Project 181: <A HREF="#P181">Hackster.io</A>
++ Project 183: <A HREF="#P183">OpenVINO™ DevCon</A>
++ Project 184: <A HREF="#P184">Google Coral</A>
++ Project 185: <A HREF="#P185">Free Book: Python Data Science Handbook</A>
++ Project 190: <A HREF="#P190">YouTube Channel Gary Explains</A>
++ Project 191: <A HREF="#P191">Bing ChatGPT-4</A>
++ Project 192: <A HREF="#P192">Nvidia Jetson Orin Nano</A>
++ Project 193: <A HREF="#P193">Jetson Orin Nano SSD</A>
++ Project 194: <A HREF="#P194">YouTube Channel JetsonHacks</A>
++ Project 195: <A HREF="#P195">Free Book: Python Scripting for Computational Science</A>
++ Project 196: <A HREF="#P196">Facebook: ChatGT</A>
 
 
 <A NAME="P1"></A>
 <HR>
-<P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P2">--&gt;</A></P>  
+<P align="center"><A HREF="#INDEX">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P2">--&gt;</A></P>  
     
 # Project 1: AI, ML, DL & DNN
 
@@ -95,7 +95,7 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
 
 <A NAME="P2"></A>
 <HR>
-<P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P3">--&gt;</A></P>  
+<P align="center"><A HREF="#P1">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P3">--&gt;</A></P>  
     
 # Project 2: "I am AI" [Video, first three minutes](https://www.youtube.com/watch?v=i-wpzS9ZsCs)
 
@@ -112,7 +112,7 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
 
 <A NAME="P3"></A>
 <HR>
-<P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P4">--&gt;</A></P>  
+<P align="center"><A HREF="#P2">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P4">--&gt;</A></P>  
     
 # Project 3: ChatGPT
 
@@ -134,7 +134,7 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
 
 <A NAME="P4"></A>
 <HR>
-<P align="center"><A HREF="#P3">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P5">--&gt;</A></P>  
+<P align="center"><A HREF="#P3">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P5">--&gt;</A></P>  
     
 # Project 4: Googgle Cloud Generative AI learning path
 
@@ -144,7 +144,7 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
 
 <A NAME="P5"></A>
 <HR>
-<P align="center"><A HREF="#P4">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P6">--&gt;</A></P>  
+<P align="center"><A HREF="#P4">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P6">--&gt;</A></P>  
     
 # Project 5: Linkedin AI Gruops
 
@@ -165,7 +165,7 @@ Other groups
 
 <A NAME="P6"></A>
 <HR>
-<P align="center"><A HREF="#P5">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P115">--&gt;</A></P>  
+<P align="center"><A HREF="#P5">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P115">--&gt;</A></P>  
     
 # Project 6: Introduction to Machine Learning by Etienne Bernard
 
@@ -174,7 +174,7 @@ Other groups
 
 <A NAME="P115"></A>
 <HR>
-<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P116">--&gt;</A></P>  
+<P align="center"><A HREF="#P6">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P116">--&gt;</A></P>  
     
 # Project 115: tinyML Foundation
 <p align="center">
@@ -189,7 +189,7 @@ Tiny machine learning is broadly defined as a fast growing field of machine lear
      
 <A NAME="P116"></A>
 <HR>
-<P align="center"><A HREF="#P115">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P117">--&gt;</A></P>  
+<P align="center"><A HREF="#P115">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P117">--&gt;</A></P>  
     
 # Project 116: AI: Artificial Intelligence
 <p align="center">
@@ -244,7 +244,7 @@ YouTube
     
 <A NAME="P117"></A>
 <HR>
-<P align="center"><A HREF="#P116">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P118">--&gt;</A></P>  
+<P align="center"><A HREF="#P116">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P118">--&gt;</A></P>  
     
 # Project 117: ML (Machine Learning) & tinyML
 <p align="center">
@@ -338,7 +338,7 @@ Google
     
 <A NAME="P118"></A>
 <HR>
-<P align="center"><A HREF="#P117">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P119">--&gt;</A></P>  
+<P align="center"><A HREF="#P117">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P119">--&gt;</A></P>  
     
 # Project 118: Khan Academy
 <p align="center">
@@ -370,7 +370,7 @@ Khan Academy search
     
 <A NAME="P119"></A>
 <HR>
-<P align="center"><A HREF="#P118">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P120">--&gt;</A></P>  
+<P align="center"><A HREF="#P118">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P120">--&gt;</A></P>  
     
 # Project 119: OCW: MIT Open Course Ware
 <p align="center">
@@ -399,7 +399,7 @@ MIT OCW
     
 <A NAME="P120"></A>
 <HR>
-<P align="center"><A HREF="#P119">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P121">--&gt;</A></P>  
+<P align="center"><A HREF="#P119">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P121">--&gt;</A></P>  
     
 # Project 120: TensorFlow
 <p align="center">
@@ -426,7 +426,7 @@ URLs
     
 <A NAME="P121"></A>
 <HR>
-<P align="center"><A HREF="#P120">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P122">--&gt;</A></P>  
+<P align="center"><A HREF="#P120">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P122">--&gt;</A></P>  
     
 # Project 121: Microcontrollers Machine Learning
 <p align="center">
@@ -458,7 +458,7 @@ Adafruit Machine Learnging Monday
     
 <A NAME="P122"></A>
 <HR>
-<P align="center"><A HREF="#P121">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P123">--&gt;</A></P>  
+<P align="center"><A HREF="#P121">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P123">--&gt;</A></P>  
     
 # Project 122: SBC (Single Board Computer) Machine Learning
 <p align="center">
@@ -485,7 +485,7 @@ Adafruit Machine Learnging Monday
    
 <A NAME="P123"></A>
 <HR>
-<P align="center"><A HREF="#P122">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P124">--&gt;</A></P>  
+<P align="center"><A HREF="#P122">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P124">--&gt;</A></P>  
     
 # Project 123: How to build an ML-powered doorbell notifier
    
@@ -498,7 +498,7 @@ SparkFund
      
 <A NAME="P124"></A>
 <HR>
-<P align="center"><A HREF="#P123">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P125">--&gt;</A></P>  
+<P align="center"><A HREF="#P123">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P125">--&gt;</A></P>  
     
 # Project 124: SparkFun Machine Learning
        
@@ -509,7 +509,7 @@ SparkFund
      
 <A NAME="P125"></A>
 <HR>
-<P align="center"><A HREF="#P124">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P126">--&gt;</A></P>  
+<P align="center"><A HREF="#P124">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P126">--&gt;</A></P>  
     
 # Project 125: Google AIY Projects
        
@@ -529,7 +529,7 @@ Hackster
      
 <A NAME="P126"></A>
 <HR>
-<P align="center"><A HREF="#P125">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P127">--&gt;</A></P>  
+<P align="center"><A HREF="#P125">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P127">--&gt;</A></P>  
     
 # Project 126: The Great Courses
 
@@ -543,7 +543,7 @@ The Great Courses
    
 <A NAME="P127"></A>
 <HR>
-<P align="center"><A HREF="#P126">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P129">--&gt;</A></P>  
+<P align="center"><A HREF="#P126">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P129">--&gt;</A></P>  
     
 # Project 127: Morse Code
     
@@ -575,7 +575,7 @@ Raspberry Pi Pico books with Morse code examples.
     
 <A NAME="P129"></A>
 <HR>
-<P align="center"><A HREF="#P127">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P130">--&gt;</A></P>  
+<P align="center"><A HREF="#P127">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P130">--&gt;</A></P>  
     
 # Project 129: PyTorch
 
@@ -591,7 +591,7 @@ YouTube
   
 <A NAME="P130"></A>
 <HR>
-<P align="center"><A HREF="#P129">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P131">--&gt;</A></P>  
+<P align="center"><A HREF="#P129">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P131">--&gt;</A></P>  
     
 # Project 130: Hackaday
 
@@ -608,7 +608,7 @@ YouTube
 
 <A NAME="P131"></A>
 <HR>
-<P align="center"><A HREF="#P130">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P132">--&gt;</A></P>  
+<P align="center"><A HREF="#P130">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P132">--&gt;</A></P>  
     
 # Project 131: Handwriting Recognition
 
@@ -629,7 +629,7 @@ Google
 
 <A NAME="P132"></A>
 <HR>
-<P align="center"><A HREF="#P131">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P144">--&gt;</A></P>  
+<P align="center"><A HREF="#P131">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P144">--&gt;</A></P>  
     
 # Project 132: ML (Machine Learning) KNN: K Nearest Neighbors in Python
 
@@ -643,7 +643,7 @@ YouTube
  
 <A NAME="P144"></A>
 <HR>
-<P align="center"><A HREF="#P132">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P146">--&gt;</A></P>  
+<P align="center"><A HREF="#P132">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P146">--&gt;</A></P>  
     
 # Project 144: scikit-learn
 <p align="center">
@@ -665,7 +665,7 @@ scikit-learn is a free software machine learning library for the Python.
   
 <A NAME="P146"></A>
 <HR>
-<P align="center"><A HREF="#P144">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P148">--&gt;</A></P>  
+<P align="center"><A HREF="#P144">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P148">--&gt;</A></P>  
     
 # Project 146: AI Chat Bot OpenAI ChatGPT Conversation
 <p align="center">
@@ -767,7 +767,7 @@ GPT-5 is expected to be out December 2023
     
 <A NAME="P147"></A>
 <HR>
-<P align="center"><A HREF="#P146">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P148">--&gt;</A></P>  
+<P align="center"><A HREF="#P146">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P148">--&gt;</A></P>  
     
 # Project 147: Researching a Project Process
 <p align="center">
@@ -784,7 +784,7 @@ Researching a project process has change with the use of ChatGPT.
  
 <A NAME="P148"></A>
 <HR>
-<P align="center"><A HREF="#P146">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P149">--&gt;</A></P>  
+<P align="center"><A HREF="#P146">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P149">--&gt;</A></P>  
     
 # Project 148: ChatGPT Index Audio Files Conversation
          
@@ -819,7 +819,7 @@ Researching a project process has change with the use of ChatGPT.
  
 <A NAME="P149"></A>
 <HR>
-<P align="center"><A HREF="#P148">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P150">--&gt;</A></P>  
+<P align="center"><A HREF="#P148">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P150">--&gt;</A></P>  
     
 # Project 149: ChatGPT Raspberry Pi Pico Conversation
          
@@ -904,7 +904,7 @@ print(output_data)
  
 <A NAME="P150"></A>
 <HR>
-<P align="center"><A HREF="#P149">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P151">--&gt;</A></P>  
+<P align="center"><A HREF="#P149">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P151">--&gt;</A></P>  
     
 # Project 150: ChatGPT ANN Conversation
          
@@ -1044,7 +1044,7 @@ print(output_data)
  
 <A NAME="P151"></A>
 <HR>
-<P align="center"><A HREF="#P150">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P152">--&gt;</A></P>  
+<P align="center"><A HREF="#P150">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P152">--&gt;</A></P>  
     
 # Project 151: Google Colab ChatGPT ANN Conversation   
 
@@ -1083,7 +1083,7 @@ print(output_data)
     
 <A NAME="P152"></A>
 <HR>
-<P align="center"><A HREF="#P151">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P153">--&gt;</A></P>  
+<P align="center"><A HREF="#P151">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P153">--&gt;</A></P>  
     
 # Project 152: Brilliant Online Courses
          
@@ -1262,7 +1262,7 @@ Functions and Arguments
  
 <A NAME="P153"></A>
 <HR>
-<P align="center"><A HREF="#P152">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P154">--&gt;</A></P>  
+<P align="center"><A HREF="#P152">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P154">--&gt;</A></P>  
     
 # Project 153: AI Hardware
     
@@ -1294,7 +1294,7 @@ Seed Studio Nvidia SOM
     
 <A NAME="P154"></A>
 <HR>
-<P align="center"><A HREF="#P153">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P155">--&gt;</A></P>  
+<P align="center"><A HREF="#P153">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P155">--&gt;</A></P>  
     
 # Project 154: Adafruit Microsoft Machine Learning Kit for Lobe
     
@@ -1308,7 +1308,7 @@ Adafruit
  
 <A NAME="P155"></A>
 <HR>
-<P align="center"><A HREF="#P154">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P156">--&gt;</A></P>  
+<P align="center"><A HREF="#P154">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P156">--&gt;</A></P>  
     
 # Project 155: Nvidia Jetson
     
@@ -1350,7 +1350,7 @@ YouTube
     
 <A NAME="P156"></A>
 <HR>
-<P align="center"><A HREF="#P155">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P157">--&gt;</A></P>  
+<P align="center"><A HREF="#P155">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P157">--&gt;</A></P>  
     
 # Project 156: ML GPUs & TPUs
 
@@ -1498,7 +1498,7 @@ In summary, the Google Coral is not a TPU, but rather a family of hardware and s
  
 <A NAME="P157"></A>
 <HR>
-<P align="center"><A HREF="#P156">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P158">--&gt;</A></P>  
+<P align="center"><A HREF="#P156">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P158">--&gt;</A></P>  
     
 # Project 157: ML ResNet-50 Convolutional Neural Network
 
@@ -1514,7 +1514,7 @@ Deep Residual Learning for Image Recognition ResNet-50
  
 <A NAME="P158"></A>
 <HR>
-<P align="center"><A HREF="#P157">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P159">--&gt;</A></P>  
+<P align="center"><A HREF="#P157">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P159">--&gt;</A></P>  
     
 # Project 158: ML Math
      
@@ -1991,7 +1991,7 @@ Here are some popular books for Machine Learning (ML) programming in Python:
  
 <A NAME="P159"></A>
 <HR>
-<P align="center"><A HREF="#P158">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P160">--&gt;</A></P>  
+<P align="center"><A HREF="#P158">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P160">--&gt;</A></P>  
     
 # Project 159: Google Colab Python IDE
      
@@ -2128,7 +2128,7 @@ If the bias was -2.5 the plot would shift to the left and input of -2.5 would ha
  
 <A NAME="P160"></A>
 <HR>
-<P align="center"><A HREF="#P159">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P161">--&gt;</A></P>  
+<P align="center"><A HREF="#P159">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P161">--&gt;</A></P>  
     
 # Project 160: Morse Code
      
@@ -2367,7 +2367,7 @@ Note that the dot duration is defined as the basic timing unit, and the duration
  
 <A NAME="P161"></A>
 <HR>
-<P align="center"><A HREF="#P160">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P162">--&gt;</A></P>  
+<P align="center"><A HREF="#P160">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P162">--&gt;</A></P>  
     
 # Project 161: Python Notbooks
      
@@ -2428,7 +2428,7 @@ These are just a few examples of the many notebook options available for Python 
  
 <A NAME="P162"></A>
 <HR>
-<P align="center"><A HREF="#P161">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P163">--&gt;</A></P>  
+<P align="center"><A HREF="#P161">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P163">--&gt;</A></P>  
     
 # Project 162: DS: Data Science
      
@@ -2509,7 +2509,7 @@ These are just a few examples of the many programs that offer free data science 
 
 <A NAME="P163"></A>
 <HR>
-<P align="center"><A HREF="#P162">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P164">--&gt;</A></P>  
+<P align="center"><A HREF="#P162">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P164">--&gt;</A></P>  
     
 # Project 163: Anaconda
 
@@ -2573,7 +2573,7 @@ When you run this program, you should see a plot of the sinc function.
 
 <A NAME="P164"></A>
 <HR>
-<P align="center"><A HREF="#P163">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P165">--&gt;</A></P>  
+<P align="center"><A HREF="#P163">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P165">--&gt;</A></P>  
     
 # Project 164: Bosch BME688 Environmental sensing with AI
 
@@ -2592,7 +2592,7 @@ Bosch
 
 <A NAME="P165"></A>
 <HR>
-<P align="center"><A HREF="#P164">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P166">--&gt;</A></P>  
+<P align="center"><A HREF="#P164">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P166">--&gt;</A></P>  
     
 # Project 165: Free Book: The Elements of Statistical Learning
 
@@ -2606,7 +2606,7 @@ The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Se
 
 <A NAME="P166"></A>
 <HR>
-<P align="center"><A HREF="#P165">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P167">--&gt;</A></P>  
+<P align="center"><A HREF="#P165">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P167">--&gt;</A></P>  
     
 # Project 166: tinyML Summit
 
@@ -2632,7 +2632,7 @@ tinyML is using [ML](https://en.wikipedia.org/wiki/Machine_learning) at [edge co
  
 <A NAME="P167"></A>
 <HR>
-<P align="center"><A HREF="#P166">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P168">--&gt;</A></P>  
+<P align="center"><A HREF="#P166">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P168">--&gt;</A></P>  
     
 # Project 167: ML ANN Digit Recognition
 
@@ -2694,7 +2694,7 @@ Kaggle
 
 <A NAME="P168"></A>
 <HR>
-<P align="center"><A HREF="#P167">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P170">--&gt;</A></P>  
+<P align="center"><A HREF="#P167">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P170">--&gt;</A></P>  
     
 # Project 168: Free Online Book: Neural Networks and Deep Learning
  
@@ -2705,7 +2705,7 @@ by Michael Nielsen
  
 <A NAME="P170"></A>
 <HR>
-<P align="center"><A HREF="#P168">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P171">--&gt;</A></P>  
+<P align="center"><A HREF="#P168">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P171">--&gt;</A></P>  
     
 # Project 170: Google DeepMind
     
@@ -2729,7 +2729,7 @@ In 2014, Google acquired DeepMind, allowing the organization to access additiona
  
 <A NAME="P171"></A>
 <HR>
-<P align="center"><A HREF="#P170">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P172">--&gt;</A></P>  
+<P align="center"><A HREF="#P170">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P172">--&gt;</A></P>  
     
 # Project 171: Google ML Training Resources
         
@@ -2758,7 +2758,7 @@ Remember to also explore other reputable sources outside of Google, as the field
  
 <A NAME="P172"></A>
 <HR>
-<P align="center"><A HREF="#P171">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P173">--&gt;</A></P>  
+<P align="center"><A HREF="#P171">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P173">--&gt;</A></P>  
     
 # Project 172: Kaggle ML 
 
@@ -2801,7 +2801,7 @@ Remember that the best way to learn using Kaggle is by practicing and participat
  
 <A NAME="P173"></A>
 <HR>
-<P align="center"><A HREF="#P172">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P175">--&gt;</A></P>  
+<P align="center"><A HREF="#P172">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P175">--&gt;</A></P>  
     
 # Project 173: YouTube Channel [Python Programmer](https://www.youtube.com/@gilesmcmullen)  Data, Python & ML
     
@@ -2853,7 +2853,7 @@ Learn Python with Giles
  
 <A NAME="P175"></A>
 <HR>
-<P align="center"><A HREF="#P173">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P176">--&gt;</A></P>  
+<P align="center"><A HREF="#P173">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P176">--&gt;</A></P>  
     
 # Project 175: YouTube Channel [3Blue1Brown](https://www.youtube.com/@3blue1brown) Animated Math
     
@@ -2874,7 +2874,7 @@ Playlists
  
 <A NAME="P176"></A>
 <HR>
-<P align="center"><A HREF="#P175">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P177">--&gt;</A></P>  
+<P align="center"><A HREF="#P175">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P177">--&gt;</A></P>  
     
 # Project 176: Keggle Free Data Science [Courses](https://www.kaggle.com/learn/?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding-learn) 
     
@@ -2889,7 +2889,7 @@ Image credit: [Kaggle](https://www.kaggle.com/learn/?utm_medium=email&utm_source
  
 <A NAME="P177"></A>
 <HR>
-<P align="center"><A HREF="#P176">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P178">--&gt;</A></P>  
+<P align="center"><A HREF="#P176">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P178">--&gt;</A></P>  
     
 # Project 177: YouTube Channels Raspberry Pi ML
     
@@ -2908,7 +2908,7 @@ YouTube
  
 <A NAME="P178"></A>
 <HR>
-<P align="center"><A HREF="#P177">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P180">--&gt;</A></P>  
+<P align="center"><A HREF="#P177">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P180">--&gt;</A></P>  
     
 # Project 178: Google Coral TPU
     
@@ -2923,7 +2923,7 @@ YouTube
     
 <A NAME="P180"></A>
 <HR>
-<P align="center"><A HREF="#P178">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P181">--&gt;</A></P>  
+<P align="center"><A HREF="#P178">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P181">--&gt;</A></P>  
     
 # Project 180: [Coursera](https://www.coursera.org/): Introduction to Embedded Machine Learning 
 <p align="center">
@@ -2994,7 +2994,7 @@ Coursera has become a popular platform for individuals seeking to enhance their 
     
 <A NAME="P181"></A>
 <HR>
-<P align="center"><A HREF="#P180">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P183">--&gt;</A></P>  
+<P align="center"><A HREF="#P180">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P183">--&gt;</A></P>  
     
 # Project 181: [Hackster.io](https://www.hackster.io/) 
 <p align="center">
@@ -3038,7 +3038,7 @@ Hackster.io
     
 <A NAME="P183"></A>
 <HR>
-<P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P184">--&gt;</A></P>  
+<P align="center"><A HREF="#P181">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P184">--&gt;</A></P>  
     
 # Project 183: OpenVINO™ DevCon
 
@@ -3048,7 +3048,7 @@ Hackster.io
     
 <A NAME="P184"></A>
 <HR>
-<P align="center"><A HREF="#P183">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P185">--&gt;</A></P>  
+<P align="center"><A HREF="#P183">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P185">--&gt;</A></P>  
     
 # Project 184: Google Coral
 
@@ -3070,7 +3070,7 @@ Overall, Google Coral offers a streamlined solution for implementing machine lea
     
 <A NAME="P185"></A>
 <HR>
-<P align="center"><A HREF="#P184">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P190">--&gt;</A></P>  
+<P align="center"><A HREF="#P184">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P190">--&gt;</A></P>  
     
 # Project 185: Free Book: Python Data Science Handbook
 <p align="center">
@@ -3084,7 +3084,7 @@ Python Data Science Handbook at [GitHub](https://github.com/jakevdp/PythonDataSc
  
 <A NAME="P190"></A>
 <HR>
-<P align="center"><A HREF="#P185">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P191">--&gt;</A></P>  
+<P align="center"><A HREF="#P185">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P191">--&gt;</A></P>  
     
 # Project 190: YouTube Channel [Gary Explains](https://www.youtube.com/@GaryExplains)
 
@@ -3097,7 +3097,7 @@ Python Data Science Handbook at [GitHub](https://github.com/jakevdp/PythonDataSc
  
 <A NAME="P191"></A>
 <HR>
-<P align="center"><A HREF="#P190">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P192">--&gt;</A></P>  
+<P align="center"><A HREF="#P190">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P192">--&gt;</A></P>  
     
 # Project 191: Bing ChatGPT-4
 <p align="center">
@@ -3116,7 +3116,7 @@ Microsoft [Bing ChatGPT-4](https://www.microsoft.com/en-us/edge/features/bing-ch
  
 <A NAME="P192"></A>
 <HR>
-<P align="center"><A HREF="#P191">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P193">--&gt;</A></P>  
+<P align="center"><A HREF="#P191">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P193">--&gt;</A></P>  
     
 # Project 192: Nvidia Jetson Orin Nano
 
@@ -3141,7 +3141,7 @@ Jetson Orin Nano has 40 TOPS of AI performance which is 80X higher than the orig
  
 <A NAME="P193"></A>
 <HR>
-<P align="center"><A HREF="#P192">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P194">--&gt;</A></P>  
+<P align="center"><A HREF="#P192">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P194">--&gt;</A></P>  
     
 # Project 193: Jetson Orin Nano SSD
 
@@ -3152,7 +3152,7 @@ The Jetson Orin Nano has 2 M.2 Key M interfaces  for a SSD.
  
 <A NAME="P194"></A>
 <HR>
-<P align="center"><A HREF="#P193">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P195">--&gt;</A></P>  
+<P align="center"><A HREF="#P193">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P195">--&gt;</A></P>  
     
 # Project 194: YouTube Channel [JetsonHacks](https://www.youtube.com/@JetsonHacks)
     
@@ -3160,7 +3160,7 @@ The YouTube [JetsonHacks](https://www.youtube.com/@JetsonHacks) channel is focus
     
 <A NAME="P195"></A>
 <HR>
-<P align="center"><A HREF="#P194">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P196">--&gt;</A></P>  
+<P align="center"><A HREF="#P194">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P196">--&gt;</A></P>  
     
 # Project 195: Free Book: Python Scripting for Computational Science
 
@@ -3172,7 +3172,7 @@ The YouTube [JetsonHacks](https://www.youtube.com/@JetsonHacks) channel is focus
     
 <A NAME="P196"></A>
 <HR>
-<P align="center"><A HREF="#P195">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="README.md#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P195">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
     
 # Project 196: Facebook: ChatGT
 
