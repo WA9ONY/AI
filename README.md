@@ -70,7 +70,7 @@
 + Project 194: <A HREF="#P194">YouTube Channel JetsonHacks</A>
 + Project 195: <A HREF="#P195">Free Book: Python Scripting for Computational Science</A>
 + Project 196: <A HREF="#P196">Facebook: ChatGT</A>
-
++ Project 197: <A HREF="#P197">ML Pico</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -3172,7 +3172,7 @@ The YouTube [JetsonHacks](https://www.youtube.com/@JetsonHacks) channel is focus
     
 <A NAME="P196"></A>
 <HR>
-<P align="center"><A HREF="#P195">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P195">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P197">--&gt;</A></P>  
     
 # Project 196: Facebook: ChatGT
 
@@ -3180,6 +3180,17 @@ The YouTube [JetsonHacks](https://www.youtube.com/@JetsonHacks) channel is focus
 
 Facebook post
 + EJ:AJ Czech database of AI List (use Google translate) [URL](https://ejaj.cz/)
+     
+    
+<A NAME="P197"></A>
+<HR>
+<P align="center"><A HREF="#P196">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 197: ML Pico
+
++ How to use Machine Learning on Microcontroller Devices [URL](https://www.analyticsvidhya.com/blog/2021/07/how-to-use-machine-learning-on-microcontroller-devices/)    
+
+
 
 End
 
