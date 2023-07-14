@@ -1092,7 +1092,7 @@ print(output_data)
 </p>
          
 <p align="center">
-<img align="center" width="334" height="279" src="/Images/Brilliant80.png">        
+<img align="center" width="413" height="273" src="/Images/Brilliant91.png">        
 </p>
 
 ### Introduction to Neural Networks 15 Lessions
