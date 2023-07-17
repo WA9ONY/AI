@@ -92,6 +92,8 @@ Image credit: [Nvidia Learning Deep Learning](https://ldlbook.com/) page [xxviii
   + [Deep Learning Dictionary](https://www.youtube.com/playlist?list=PLZbbT5o_s2xqaYcABd4VgeXie6SNmtB_2) by [deeplizard](https://www.youtube.com/@deeplizard)
   + [AI Dictionary](https://nhsx.github.io/ai-dictionary)
 
+Machine learning is a subset of AI. It is based on the idea that machines can learn from data and improve their performance on a specific task without being explicitly programmed.
+
 
 <A NAME="P2"></A>
 <HR>
