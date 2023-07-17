@@ -71,6 +71,8 @@
 + Project 195: <A HREF="README.md#P195">Free Book: Python Scripting for Computational Science</A>
 + Project 196: <A HREF="README.md#P196">Facebook: ChatGT</A>
 + Project 197: <A HREF="README.md#P197">ML Pico</A>
++ Project 198: <A HREF="README.md#P198">2023 Edge AI Technology Report</A>
+
 
 <A NAME="P1"></A>
 <HR>
@@ -3186,11 +3188,23 @@ Facebook post
     
 <A NAME="P197"></A>
 <HR>
-<P align="center"><A HREF="#P196">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P196">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P198">--&gt;</A></P>  
     
 # Project 197: ML Pico
 
 + How to use Machine Learning on Microcontroller Devices [URL](https://www.analyticsvidhya.com/blog/2021/07/how-to-use-machine-learning-on-microcontroller-devices/)    
+
+
+     
+    
+<A NAME="P198"></A>
+<HR>
+<P align="center"><A HREF="#P197">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 198: 2023 Edge AI Technology Report
+
++ 2023 Edge AI Technology  [Report](https://www.wevolver.com/article/2023-edge-ai-technology-report)    
+
 
 
 
