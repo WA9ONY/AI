@@ -3202,8 +3202,11 @@ Facebook post
 <P align="center"><A HREF="#P197">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
     
 # Project 198: 2023 Edge AI Technology Report
+<p align="center">
+  <img width="275" height="347" src="/Images/EdgeAI2023.png">  
+</p>
 
-+ 2023 Edge AI Technology  [Report](https://www.wevolver.com/article/2023-edge-ai-technology-report)    
++ 2023 Edge AI Technology 117 pages [report](https://www.wevolver.com/article/2023-edge-ai-technology-report)    
 
 
 
