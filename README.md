@@ -3219,15 +3219,7 @@ Facebook post
 YouTube tinyML EMEA 2023 [27 videos playlist](https://www.youtube.com/playlist?list=PLeisuBi-nfBO6Lgt98eBjM52Byu1GrI9p) 
   + Wednesday Keynote - Marian Verhelst: Should Tiny ML Processors be Multi-core? [41 min. video](https://youtu.be/35BWC4_SY-8)
 
-TimyML   
-  + Google [search](https://www.google.com/search?q=tinyml+books&oq=TinyML+books&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCggBEAAYhgMYigUyCggCEAAYhgMYigUyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDzSAQk2MDIxajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8)
-  + Amazon [search](https://www.amazon.com/s?k=TinyML&crid=X09OJ05K4XSB&sprefix=tinyml%2Caps%2C154&ref=nb_sb_noss_1)
-  + Internet Archive [Search](https://archive.org/search?query=TinyML)
-    + Make Magazine, [Issue 77](https://archive.org/details/MakeMagazine77)
-  + GitHub [search](https://github.com/search?q=TinyML&type=repositories)
-  + YouTube [search](https://www.youtube.com/results?search_query=TinyML)
-
-## [ChatGPT](https://openai.com/) What is TinyML?
+## [ChatGPT](https://openai.com/): What is TinyML?
 
 TinyML stands for "Tiny Machine Learning." It is an emerging field of machine learning focused on running machine learning models on extremely resource-constrained devices, such as microcontrollers and other embedded systems. The goal of TinyML is to bring the power of machine learning to the edge, enabling devices to make intelligent decisions locally, without relying on cloud-based servers or high-end hardware.
 
@@ -3250,6 +3242,16 @@ TinyML has numerous applications, including but not limited to:
 - Consumer Electronics: Enhancing user experience in various devices.
 
 Despite its advantages, implementing machine learning on such resource-constrained devices poses several challenges. Model size, accuracy, and compatibility with different hardware platforms are some of the key areas of focus for researchers and developers working on TinyML. However, as the field progresses, it holds the potential to revolutionize the way we interact with and benefit from intelligent devices in various domains.
+
+## TinyML
+  
+  + Google [search](https://www.google.com/search?q=tinyml+books&oq=TinyML+books&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCggBEAAYhgMYigUyCggCEAAYhgMYigUyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDzSAQk2MDIxajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8)
+  + Amazon [search](https://www.amazon.com/s?k=TinyML&crid=X09OJ05K4XSB&sprefix=tinyml%2Caps%2C154&ref=nb_sb_noss_1)
+  + Internet Archive [Search](https://archive.org/search?query=TinyML)
+    + Make Magazine, [Issue 77](https://archive.org/details/MakeMagazine77)
+  + GitHub [search](https://github.com/search?q=TinyML&type=repositories)
+  + YouTube [search](https://www.youtube.com/results?search_query=TinyML)
+
 |
 
 |
