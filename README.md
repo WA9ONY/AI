@@ -1,5 +1,5 @@
 <A NAME="INDEX"></A>
-<P align="center"><A HREF="#P198">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
+<P align="center"><A HREF="#P199">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # AI Project Notes Index
@@ -72,7 +72,7 @@
 + Project 196: <A HREF="README.md#P196">Facebook: ChatGT</A>
 + Project 197: <A HREF="README.md#P197">ML Pico</A>
 + Project 198: <A HREF="README.md#P198">2023 Edge AI Technology Report</A>
-
++ Project 199: <A HREF="README.md#P199">tinyML EMEA</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -3193,13 +3193,11 @@ Facebook post
 # Project 197: ML Pico
 
 + How to use Machine Learning on Microcontroller Devices [URL](https://www.analyticsvidhya.com/blog/2021/07/how-to-use-machine-learning-on-microcontroller-devices/)    
-
-
-     
+    
     
 <A NAME="P198"></A>
 <HR>
-<P align="center"><A HREF="#P197">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P197">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P199">--&gt;</A></P>  
     
 # Project 198: 2023 Edge AI Technology Report
 <p align="center">
@@ -3208,10 +3206,54 @@ Facebook post
 
 + 2023 Edge AI Technology 117 pages [report](https://www.wevolver.com/article/2023-edge-ai-technology-report)    
 
+    
+    
+<A NAME="P199"></A>
+<HR>
+<P align="center"><A HREF="#P198">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 199: tinyML EMEA
 
+2023 July tinyML EMEA
 
+YouTube tinyML EMEA 2023 [27 videos playlist](https://www.youtube.com/playlist?list=PLeisuBi-nfBO6Lgt98eBjM52Byu1GrI9p) 
+  + Wednesday Keynote - Marian Verhelst: Should Tiny ML Processors be Multi-core? [41 min. video](https://youtu.be/35BWC4_SY-8)
 
-|
+TimyML   
+  + Google [search](https://www.google.com/search?q=tinyml+books&oq=TinyML+books&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCggBEAAYhgMYigUyCggCEAAYhgMYigUyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDzSAQk2MDIxajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8)
+  + Amazon [search](https://www.amazon.com/s?k=TinyML&crid=X09OJ05K4XSB&sprefix=tinyml%2Caps%2C154&ref=nb_sb_noss_1)
+  + Internet Archive [Search](https://archive.org/search?query=TinyML)
+    + Make Magazine, [Issue 77](https://archive.org/details/MakeMagazine77)
+  + GitHub [search](https://github.com/search?q=TinyML&type=repositories)
+  + YouTube [search](https://www.youtube.com/results?search_query=TinyML)
+
+## [ChatGPT](https://openai.com/)
+
+  + What is TinyML?
+<PRE>
+    TinyML stands for "Tiny Machine Learning." It is an emerging field of machine learning focused on running machine learning models on extremely resource-constrained devices, such as microcontrollers and other embedded systems. The goal of TinyML is to bring the power of machine learning to the edge, enabling devices to make intelligent decisions locally, without relying on cloud-based servers or high-end hardware.
+
+Key characteristics of TinyML include:
+
+1. **Low Memory and Power Consumption:** TinyML models are designed to be compact and efficient, as they need to run on devices with limited memory and processing capabilities. These models are often optimized for low power consumption to prolong the battery life of the devices.
+
+2. **Real-Time Inference:** TinyML models are designed to perform inference (making predictions) quickly, typically in real-time, to support applications where low latency is critical.
+
+3. **On-Device Learning:** Some TinyML models are capable of on-device learning, where the model can adapt and improve its performance using data collected locally. This is useful in scenarios where connectivity to a central server is intermittent or not possible.
+
+4. **Edge Computing:** By performing inference locally on the edge device, TinyML reduces the need for continuous data transmission to the cloud, saving bandwidth and maintaining user privacy.
+
+TinyML has numerous applications, including but not limited to:
+
+- **Internet of Things (IoT):** Adding intelligence to smart home devices, wearables, industrial sensors, etc.
+- **Healthcare:** Enabling real-time monitoring and diagnosis through wearable health devices.
+- **Automotive:** Enabling autonomous systems and intelligent driver assistance.
+- **Agriculture:** Improving crop monitoring and optimizing resource usage.
+- **Consumer Electronics:** Enhancing user experience in various devices.
+
+Despite its advantages, implementing machine learning on such resource-constrained devices poses several challenges. Model size, accuracy, and compatibility with different hardware platforms are some of the key areas of focus for researchers and developers working on TinyML. However, as the field progresses, it holds the potential to revolutionize the way we interact with and benefit from intelligent devices in various domains.
+</PRE>
+
 
 |
 
