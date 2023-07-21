@@ -3243,20 +3243,7 @@ TinyML has numerous applications, including but not limited to:
 
 Despite its advantages, implementing machine learning on such resource-constrained devices poses several challenges. Model size, accuracy, and compatibility with different hardware platforms are some of the key areas of focus for researchers and developers working on TinyML. However, as the field progresses, it holds the potential to revolutionize the way we interact with and benefit from intelligent devices in various domains.
 
-## TinyML
-  
-  + Google [search](https://www.google.com/search?q=tinyml+books&oq=TinyML+books&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCggBEAAYhgMYigUyCggCEAAYhgMYigUyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDzSAQk2MDIxajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8)
-  + Amazon [search](https://www.amazon.com/s?k=TinyML&crid=X09OJ05K4XSB&sprefix=tinyml%2Caps%2C154&ref=nb_sb_noss_1)
-  + Internet Archive [Search](https://archive.org/search?query=TinyML)
-    + Make Magazine, [Issue 77](https://archive.org/details/MakeMagazine77)
-  + GitHub [search](https://github.com/search?q=TinyML&type=repositories)
-  + YouTube [search](https://www.youtube.com/results?search_query=TinyML)
-
-
-
-
-
-##  Bing Chat TinyML
+##  Bing Chat: TinyML
 
 TinyML stands for Tiny Machine Learning. It is a type of machine learning that allows models to run on smaller, less powerful devices. It involves hardware, algorithms, and software that can analyze sensor data on these devices with very low power consumption, making it ideal for always-on use-cases and battery-operated devices.
 
@@ -3269,6 +3256,14 @@ TinyML courses
   + TinyMLedu [courses](http://tinyml.seas.harvard.edu/courses/)
   + Fundamentals of TinyML [course](https://pll.harvard.edu/course/fundamentals-tinyml)
 
+## TinyML resources
+  
+  + Google [search](https://www.google.com/search?q=tinyml+books&oq=TinyML+books&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyCggBEAAYhgMYigUyCggCEAAYhgMYigUyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDzSAQk2MDIxajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8)
+  + Amazon [search](https://www.amazon.com/s?k=TinyML&crid=X09OJ05K4XSB&sprefix=tinyml%2Caps%2C154&ref=nb_sb_noss_1)
+  + Internet Archive [Search](https://archive.org/search?query=TinyML)
+    + Make Magazine, [Issue 77](https://archive.org/details/MakeMagazine77)
+  + GitHub [search](https://github.com/search?q=TinyML&type=repositories)
+  + YouTube [search](https://www.youtube.com/results?search_query=TinyML)
 
 |
 
