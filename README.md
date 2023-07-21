@@ -3252,6 +3252,24 @@ Despite its advantages, implementing machine learning on such resource-constrain
   + GitHub [search](https://github.com/search?q=TinyML&type=repositories)
   + YouTube [search](https://www.youtube.com/results?search_query=TinyML)
 
+
+
+
+
+##  Bing Chat TinyML
+
+TinyML stands for Tiny Machine Learning. It is a type of machine learning that allows models to run on smaller, less powerful devices. It involves hardware, algorithms, and software that can analyze sensor data on these devices with very low power consumption, making it ideal for always-on use-cases and battery-operated devices.
+
+There are several free online courses on edX and Coursera that can help you get started learning about TinyML as well as a host of open source course materials you can use to teach your own course1.
+
+One such course is the “Fundamentals of TinyML” offered by Harvard University. This course provides a foundation for you to understand this emerging field. TinyML is at the intersection of embedded Machine Learning (ML) applications, algorithms, hardware, and software. The first course in the TinyML Certificate series, Fundamentals of TinyML will focus on the basics of machine learning, deep learning, and embedded devices and systems, such as smartphones and other tiny devices. Throughout the course, you will learn data science techniques for collecting data and develop an understanding of learning algorithms to train basic machine learning models
+
+TinyML courses
+  + Duke Learning TinyML: A Hands-On [Course](https://careerhub.students.duke.edu/classes/learning-tinyml/)
+  + TinyMLedu [courses](http://tinyml.seas.harvard.edu/courses/)
+  + Fundamentals of TinyML [course](https://pll.harvard.edu/course/fundamentals-tinyml)
+
+
 |
 
 |
