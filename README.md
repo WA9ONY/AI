@@ -3282,7 +3282,7 @@ YouTube tinyML EMEA 2023 [27 videos playlist](https://www.youtube.com/playlist?l
   + GitHub [search](https://github.com/search?q=TinyML&type=repositories)
   + YouTube [search](https://www.youtube.com/results?search_query=TinyML)
   + YouTube [playlists](https://www.youtube.com/results?search_query=TinyML+Playlist)
-
+     + TinyML Dr. Fayez Khazalah [8 videos](https://www.youtube.com/playlist?list=PLF_i_QgdVtBpo3eyUqFcXp9t0TPJUi4ZG)
 
 |
 
