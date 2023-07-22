@@ -3281,6 +3281,8 @@ YouTube tinyML EMEA 2023 [27 videos playlist](https://www.youtube.com/playlist?l
     + Make Magazine, [Issue 77](https://archive.org/details/MakeMagazine77)
   + GitHub [search](https://github.com/search?q=TinyML&type=repositories)
   + YouTube [search](https://www.youtube.com/results?search_query=TinyML)
+  + YouTube [playlists](https://www.youtube.com/results?search_query=TinyML+Playlist)
+
 
 |
 
