@@ -3247,37 +3247,33 @@ Despite its advantages, implementing machine learning on such resource-constrain
 
 + TinyML stands for Tiny Machine Learning. It is a subfield of machine learning that enables machine learning models to run inference on smaller, more resource-constrained devices. This is achieved by using hardware, algorithms, and software that can analyze sensor data on these devices with very low power consumption, making it ideal for always-on use-cases and battery-operated devices¹². 
 
-Source: Conversation with Bing, 7/21/2023
-
-(1) What is TinyML? An Introduction to Tiny Machine Learning. https://www.datacamp.com/blog/what-is-tinyml-tiny-machine-learning.
-(2) What Is TinyML? - Technical Articles - All About Circuits. https://www.allaboutcircuits.com/technical-articles/what-is-tinyml/.
-(3) Fundamentals of TinyML | Harvard University. https://pll.harvard.edu/course/fundamentals-tinyml.
-(4) What is TinyML, and why does it matter? | The AI Enthusiast - Medium. https://medium.com/tech-cult-heartbeat/what-is-tinyml-and-why-does-it-matter-f5b164766876.
++ Source: Conversation with Bing, 7/21/2023
+  + (1) What is TinyML? An Introduction to Tiny Machine Learning. https://www.datacamp.com/blog/what-is-tinyml-tiny-machine-learning.
+  + (2) What Is TinyML? - Technical Articles - All About Circuits. https://www.allaboutcircuits.com/technical-articles/what-is-tinyml/.
+  + (3) Fundamentals of TinyML | Harvard University. https://pll.harvard.edu/course/fundamentals-tinyml.
+  + (4) What is TinyML, and why does it matter? | The AI Enthusiast - Medium. https://medium.com/tech-cult-heartbeat/what-is-tinyml-and-why-does-it-matter-f5b164766876.
 
 
 + The prerequisites for learning TinyML include basic scripting in Python, proficiency in C/C++ and Python, familiarity with command line tools in Mac, Windows or Linux¹⁴. 
 
-Source: Conversation with Bing, 7/21/2023
++ Source: Conversation with Bing, 7/21/2023
+  + (1) Harvard University: Fundamentals of TinyML | edX. https://www.edx.org/course/fundamentals-of-tinyml/.
+  + (2) CS249r :: Tiny Machine Learning (Fall 2022, Grad. Seminar) - Google Sites. https://sites.google.com/g.harvard.edu/tinyml/home.
+  + (3) Fundamentals of TinyML | Harvard University. https://pll.harvard.edu/course/fundamentals-tinyml.
+  + (4) Why the Big Future of Machine Learning Is Tiny - HDS. https://highdemandskills.com/tinyml/.
 
-(1) Harvard University: Fundamentals of TinyML | edX. https://www.edx.org/course/fundamentals-of-tinyml/.
-(2) CS249r :: Tiny Machine Learning (Fall 2022, Grad. Seminar) - Google Sites. https://sites.google.com/g.harvard.edu/tinyml/home.
-(3) Fundamentals of TinyML | Harvard University. https://pll.harvard.edu/course/fundamentals-tinyml.
-(4) Why the Big Future of Machine Learning Is Tiny - HDS. https://highdemandskills.com/tinyml/.
++ To use TinyML, you can take a free online course on edX that focuses on the basics of machine learning and embedded systems, such as smartphones, to introduce you to the “language” of TinyML¹. You can also learn about the foundations of TinyML, which is at the intersection of embedded Machine Learning (ML) applications, algorithms, hardware, and software². 
 
-To use TinyML, you can take a free online course on edX that focuses on the basics of machine learning and embedded systems, such as smartphones, to introduce you to the “language” of TinyML¹. You can also learn about the foundations of TinyML, which is at the intersection of embedded Machine Learning (ML) applications, algorithms, hardware, and software². 
++ TinyML stands for Tiny Machine Learning. It is a type of machine learning that allows models to run on smaller, less powerful devices. It involves hardware, algorithms, and software that can analyze sensor data on these devices with very low power consumption, making it ideal for always-on use-cases and battery-operated devices.
 
++ There are several free online courses on edX and Coursera that can help you get started learning about TinyML as well as a host of open source course materials you can use to teach your own course1.
 
-TinyML stands for Tiny Machine Learning. It is a type of machine learning that allows models to run on smaller, less powerful devices. It involves hardware, algorithms, and software that can analyze sensor data on these devices with very low power consumption, making it ideal for always-on use-cases and battery-operated devices.
++ One such course is the “Fundamentals of TinyML” offered by Harvard University. This course provides a foundation for you to understand this emerging field. TinyML is at the intersection of embedded Machine Learning (ML) applications, algorithms, hardware, and software. The first course in the TinyML Certificate series, Fundamentals of TinyML will focus on the basics of machine learning, deep learning, and embedded devices and systems, such as smartphones and other tiny devices. Throughout the course, you will learn data science techniques for collecting data and develop an understanding of learning algorithms to train basic machine learning models
 
-There are several free online courses on edX and Coursera that can help you get started learning about TinyML as well as a host of open source course materials you can use to teach your own course1.
-
-One such course is the “Fundamentals of TinyML” offered by Harvard University. This course provides a foundation for you to understand this emerging field. TinyML is at the intersection of embedded Machine Learning (ML) applications, algorithms, hardware, and software. The first course in the TinyML Certificate series, Fundamentals of TinyML will focus on the basics of machine learning, deep learning, and embedded devices and systems, such as smartphones and other tiny devices. Throughout the course, you will learn data science techniques for collecting data and develop an understanding of learning algorithms to train basic machine learning models
-
-TinyML courses
++ TinyML courses
   + Duke Learning TinyML: A Hands-On [Course](https://careerhub.students.duke.edu/classes/learning-tinyml/)
   + TinyMLedu [courses](http://tinyml.seas.harvard.edu/courses/)
   + Fundamentals of TinyML [course](https://pll.harvard.edu/course/fundamentals-tinyml)
-
 
 
 ## TinyML resources
