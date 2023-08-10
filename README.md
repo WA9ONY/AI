@@ -1,5 +1,5 @@
 <A NAME="INDEX"></A>
-<P align="center"><A HREF="#P199">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
+<P align="center"><A HREF="#P201">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # AI Project Notes Index
@@ -74,6 +74,7 @@
 + Project 198: <A HREF="README.md#P198">2023 Edge AI Technology Report</A>
 + Project 199: <A HREF="README.md#P199">tinyML EMEA</A>
 + Project 200: <A HREF="README.md#P200">Sparkfun What is Machine Learning?</A>
++ Project 201: <A HREF="README.md#P201">Bing Chat ML</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -3287,12 +3288,50 @@ YouTube tinyML EMEA 2023 [27 videos playlist](https://www.youtube.com/playlist?l
     
 <A NAME="P200"></A>
 <HR>
-<P align="center"><A HREF="#P199">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P199">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P201">--&gt;</A></P>  
     
 # Project 200: Sparkfun What is Machine Learning?
 
 [What is Machine Learning?](https://www.sparkfun.com/news/7369?utm_campaign=SparkFun%20Weekly%20Blog%20Recap&utm_medium=email&_hsmi=269286134&_hsenc=p2ANqtz-_s1u_4OTYB091Wdeh5tIpoEOJ_SBmZ-HBvPzjp0T6AVtljlFmarW1VTjlbKYHb3tAuXGN4dj3XZQm_eAcf2eSKEja7RA&utm_content=269286134&utm_source=hs_email)
-|
+   
+    
+<A NAME="P201"></A>
+<HR>
+<P align="center"><A HREF="#P199">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 201: Bing Chat ML
+
+## You are a teacher, write a 200 word essay on machine learing for microcontrollers.
+
+Machine learning is a subset of artificial intelligence that involves the development of algorithms that can learn from and make predictions on data. Microcontrollers are small computers that are used in a wide range of applications, including embedded systems, robotics, and IoT devices. The combination of machine learning and microcontrollers has the potential to enable new applications and use cases.
+
+Machine learning on microcontrollers is still in its early stages, but there are already several frameworks available that allow developers to run machine learning models on microcontrollers. One such framework is AIfES (Artificial Intelligence for Embedded Systems), which is an open-source AI/ML framework written in C that allows developers to run and even train artificial neural networks (ANN) on almost any hardware, including the 8-bit Arduino Uno³. Another example is TensorFlow Lite for Microcontrollers, which is a lightweight version of TensorFlow designed for microcontrollers⁴.
+
+The advancements in machine learning have opened up new opportunities to bring intelligence to low-end IoT nodes such as microcontrollers. However, conventional machine learning deployment has high memory and compute footprint hindering their direct deployment on ultra resource-constrained microcontrollers¹. Running machine learning models on microcontrollers makes it possible to perform tasks like voice recognition, gesture recognition, and predictive maintenance on devices that have limited computational resources⁵.
+
+I hope this helps!
+
+Source: Conversation with Bing, 8/10/2023
+(1) AIfES is an AI/ML framework for Arduino and Small Microcontrollers. https://blog.arduino.cc/2021/07/06/aifes-is-an-ai-ml-framework-written-in-c-for-even-the-smallest-microcontrollers/.
+(2) How-to Get Started with Machine Learning on Arduino. https://blog.tensorflow.org/2019/11/how-to-get-started-with-machine.html.
+(3) Machine Learning for Microcontroller-Class Hardware: A Review. https://arxiv.org/abs/2205.14550.
+(4) Deploying Machine Learning on Microcontrollers: How TinyML Enables .... https://www.seeedstudio.com/blog/2023/06/06/deploying-machine-learning-on-microcontrollers-how-tinyml-enables-sound-image-and-motion-classification/.
+(5) . https://bing.com/search?q=machine+learning+for+microcontrollers.
+
+## You are a teacher, write a 200 word essay on TinyML for microcontrollers.
+
+TinyML (Tiny Machine Learning) refers to the deployment of machine learning algorithms on microcontrollers, which are small, low-power computing devices that are often used in embedded systems and Internet of Things (IoT) devices. By running machine learning models on microcontrollers, TinyML makes it possible to perform tasks like sound, image and motion classification on devices that have limited computational resources, such as low memory, low power, and limited processing capabilities¹.
+
+TinyML is a sub-field of Machine Learning that studies the way to run ML models on small and low-powered devices. It is designed to run machine learning models on microcontrollers and other devices with only a few kilobytes of memory. The core runtime just fits in 16 KB on an Arm Cortex M3 and can run many basic models. It doesn't require operating system support, any standard C or C++ libraries, or dynamic memory allocation².
+
+I hope this helps!
+
+Source: Conversation with Bing, 8/10/2023
+(1) Deploying Machine Learning on Microcontrollers: How TinyML Enables .... https://www.seeedstudio.com/blog/2023/06/06/deploying-machine-learning-on-microcontrollers-how-tinyml-enables-sound-image-and-motion-classification/.
+(2) . https://bing.com/search?q=TinyML+for+microcontrollers.
+(3) TensorFlow Lite for Microcontrollers. https://www.tensorflow.org/lite/microcontrollers.
+(4) TinyML Brings AI to Smallest Arm Devices - Arm Blueprint. https://www.arm.com/blogs/blueprint/tinyml.
+
 
 |
 
