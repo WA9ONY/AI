@@ -73,6 +73,7 @@
 + Project 197: <A HREF="README.md#P197">ML Pico</A>
 + Project 198: <A HREF="README.md#P198">2023 Edge AI Technology Report</A>
 + Project 199: <A HREF="README.md#P199">tinyML EMEA</A>
++ Project 200: <A HREF="README.md#P200">Sparkfun What is Machine Learning?</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -3205,12 +3206,11 @@ Facebook post
 </p>
 
 + 2023 Edge AI Technology 117 pages [report](https://www.wevolver.com/article/2023-edge-ai-technology-report)    
-
-    
+   
     
 <A NAME="P199"></A>
 <HR>
-<P align="center"><A HREF="#P198">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P198">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P200">--&gt;</A></P>  
     
 # Project 199: tinyML EMEA
 
@@ -3283,7 +3283,15 @@ YouTube tinyML EMEA 2023 [27 videos playlist](https://www.youtube.com/playlist?l
   + YouTube [search](https://www.youtube.com/results?search_query=TinyML)
   + YouTube [playlists](https://www.youtube.com/results?search_query=TinyML+Playlist)
      + TinyML Dr. Fayez Khazalah [8 videos](https://www.youtube.com/playlist?list=PLF_i_QgdVtBpo3eyUqFcXp9t0TPJUi4ZG)
+   
+    
+<A NAME="P200"></A>
+<HR>
+<P align="center"><A HREF="#P199">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 200: Sparkfun What is Machine Learning?
 
+[What is Machine Learning?](https://www.sparkfun.com/news/7369?utm_campaign=SparkFun%20Weekly%20Blog%20Recap&utm_medium=email&_hsmi=269286134&_hsenc=p2ANqtz-_s1u_4OTYB091Wdeh5tIpoEOJ_SBmZ-HBvPzjp0T6AVtljlFmarW1VTjlbKYHb3tAuXGN4dj3XZQm_eAcf2eSKEja7RA&utm_content=269286134&utm_source=hs_email)
 |
 
 |
