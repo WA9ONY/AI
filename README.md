@@ -3312,11 +3312,11 @@ The advancements in machine learning have opened up new opportunities to bring i
 I hope this helps!
 
 Source: Conversation with Bing, 8/10/2023
-(1) AIfES is an AI/ML framework for Arduino and Small Microcontrollers. https://blog.arduino.cc/2021/07/06/aifes-is-an-ai-ml-framework-written-in-c-for-even-the-smallest-microcontrollers/.
-(2) How-to Get Started with Machine Learning on Arduino. https://blog.tensorflow.org/2019/11/how-to-get-started-with-machine.html.
-(3) Machine Learning for Microcontroller-Class Hardware: A Review. https://arxiv.org/abs/2205.14550.
-(4) Deploying Machine Learning on Microcontrollers: How TinyML Enables .... https://www.seeedstudio.com/blog/2023/06/06/deploying-machine-learning-on-microcontrollers-how-tinyml-enables-sound-image-and-motion-classification/.
-(5) . https://bing.com/search?q=machine+learning+for+microcontrollers.
++ (1) AIfES is an AI/ML framework for Arduino and Small Microcontrollers. https://blog.arduino.cc/2021/07/06/aifes-is-an-ai-ml-framework-written-in-c-for-even-the-smallest-microcontrollers/.
++ (2) How-to Get Started with Machine Learning on Arduino. https://blog.tensorflow.org/2019/11/how-to-get-started-with-machine.html.
++ (3) Machine Learning for Microcontroller-Class Hardware: A Review. https://arxiv.org/abs/2205.14550.
++ (4) Deploying Machine Learning on Microcontrollers: How TinyML Enables .... https://www.seeedstudio.com/blog/2023/06/06/deploying-machine-learning-on-microcontrollers-how-tinyml-enables-sound-image-and-motion-classification/.
++ (5) . https://bing.com/search?q=machine+learning+for+microcontrollers.
 
 ## You are a teacher, write a 200 word essay on TinyML for microcontrollers.
 
@@ -3327,10 +3327,10 @@ TinyML is a sub-field of Machine Learning that studies the way to run ML models 
 I hope this helps!
 
 Source: Conversation with Bing, 8/10/2023
-(1) Deploying Machine Learning on Microcontrollers: How TinyML Enables .... https://www.seeedstudio.com/blog/2023/06/06/deploying-machine-learning-on-microcontrollers-how-tinyml-enables-sound-image-and-motion-classification/.
-(2) . https://bing.com/search?q=TinyML+for+microcontrollers.
-(3) TensorFlow Lite for Microcontrollers. https://www.tensorflow.org/lite/microcontrollers.
-(4) TinyML Brings AI to Smallest Arm Devices - Arm Blueprint. https://www.arm.com/blogs/blueprint/tinyml.
++ (1) Deploying Machine Learning on Microcontrollers: How TinyML Enables .... https://www.seeedstudio.com/blog/2023/06/06/deploying-machine-learning-on-microcontrollers-how-tinyml-enables-sound-image-and-motion-classification/.
++ (2) . https://bing.com/search?q=TinyML+for+microcontrollers.
++ (3) TensorFlow Lite for Microcontrollers. https://www.tensorflow.org/lite/microcontrollers.
++ (4) TinyML Brings AI to Smallest Arm Devices - Arm Blueprint. https://www.arm.com/blogs/blueprint/tinyml.
 
 
 |
