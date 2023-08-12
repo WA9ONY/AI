@@ -1,5 +1,5 @@
 <A NAME="INDEX"></A>
-<P align="center"><A HREF="#P201">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
+<P align="center"><A HREF="#P202">&lt;-- <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P1">--&gt;</A><BR>
 <A HREF="https://github.com/WA9ONY/AI">AI</A> - <A HREF="https://github.com/WA9ONY/Arduino">Arduino</A> - <A HREF="https://github.com/WA9ONY/Electronics">Electronics</A> - <A HREF="https://github.com/WA9ONY/GNURadio">GNURadio</A> - <A HREF="https://github.com/WA9ONY/Pico-RP2040">Pico-RP2040</A> - <A HREF="https://github.com/WA9ONY/Python">Python</A> - <A HREF="https://github.com/WA9ONY/Raspberry-Pi">Raspberry-Pi</A></P>  
 
 # AI Project Notes Index
@@ -75,6 +75,7 @@
 + Project 199: <A HREF="README.md#P199">tinyML EMEA</A>
 + Project 200: <A HREF="README.md#P200">Sparkfun What is Machine Learning?</A>
 + Project 201: <A HREF="README.md#P201">Bing Chat ML</A>
++ Project 202: <A HREF="README.md#P202">Hello World Free Magazine</A>
 
 <A NAME="P1"></A>
 <HR>
@@ -3297,7 +3298,7 @@ YouTube tinyML EMEA 2023 [27 videos playlist](https://www.youtube.com/playlist?l
     
 <A NAME="P201"></A>
 <HR>
-<P align="center"><A HREF="#P200">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+<P align="center"><A HREF="#P200">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#P202">--&gt;</A></P>  
     
 # Project 201: Bing Chat ML
 
@@ -3332,8 +3333,18 @@ Source: Conversation with Bing, 8/10/2023
 + (3) TensorFlow Lite for Microcontrollers. https://www.tensorflow.org/lite/microcontrollers.
 + (4) TinyML Brings AI to Smallest Arm Devices - Arm Blueprint. https://www.arm.com/blogs/blueprint/tinyml.
 
+   
+<A NAME="P202"></A>
+<HR>
+<P align="center"><A HREF="#P200">&lt;--</A> <A HREF="https://www.qrz.com/db/WA9ONY">WA9ONY</A> - <A HREF="https://www.youtube.com/user/DavidAHaworth">YouTube</A> - <A HREF="#INDEX">Index</A> - <A HREF="http://www.stargazing.net/david/RPi/index.html">RPi</A> - <A HREF="http://www.stargazing.net/david/index.html">Website</A> <A HREF="#INDEX">--&gt;</A></P>  
+    
+# Project 202: Hello World Free Magazine
 
-|
+[Hello World](https://helloworld.raspberrypi.org/)
++ [Issue 12](https://helloworld.raspberrypi.org/issues/12/pdf) Machine Learning
+  + History of AI
+  + Natural Language Processing
+ |
 
 |
 
